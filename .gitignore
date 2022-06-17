@@ -131,3 +131,4 @@ dmypy.json
 # Archivos de testeo
 *.json
 *.npy
+*.wav
